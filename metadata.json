@@ -1,0 +1,5 @@
+{
+  "name": "AI Slide Generator",
+  "description": "An intelligent application that automatically generates beautiful presentation slides from unstructured text using AI. Input your notes, articles, or meeting minutes, and let the AI create a structured, visually appealing slideshow for you. Customize the design with various themes, colors, and fonts.",
+  "requestFramePermissions": []
+}
